@@ -1,5 +1,3 @@
----
-
 <h1 id="project-overview">Project Overview</h1>
 <p>In this project I developed an application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users have the ability to post, edit and delete their own items.</p>
 <h2 id="why-this-project">Why This Project?</h2>
