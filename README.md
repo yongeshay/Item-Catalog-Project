@@ -11,7 +11,7 @@
 <li>Efficiently interacting with data is the backbone upon which performant web applications are built</li>
 <li>Properly implementing authentication mechanisms and appropriately mapping HTTP methods to CRUD operations are core features of a properly secured web application</li>
 </ul>
-<h2 id="how-to-run-this-project">How To Run This Project</h2>
+<h1 id="how-to-run-this-project">How To Run This Project</h1>
 <p>Here’s what you should do:</p>
 <ol>
 <li>Install Vagrant and VirtualBox</li>
